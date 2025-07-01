@@ -28,7 +28,7 @@ const projects = [
       "BiLSTM model (80.6% accuracy) containerized with FastAPI and Docker, deployed with CI/CD for real-time toxic comment detection.",
     image: "/projects/toxicity.png",
     tags: ["TensorFlow", "FastAPI", "Docker", "CI/CD"],
-    demoUrl: "#",
+    demoUrl: "https://toxicity-api-kushal.onrender.com/docs",
     githubUrl: "https://github.com/kushal9811/fintagram_toxicity_api",
   },
 ];
